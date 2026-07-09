@@ -36,4 +36,4 @@ This hub is a growing collection – new projects are added here as they're comp
 
 Feel free to reach out via GitHub or Instagram:
 - GitHub: [@VampireNoob](https://github.com/VampireNoob)
-- Instagram:
+- Instagram: [@vampirenoob](https://www.instagram.com/vampirenoob/)
