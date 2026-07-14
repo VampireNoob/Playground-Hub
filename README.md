@@ -1,36 +1,39 @@
 # 🎮 Project Playground Hub
 
-A central showcase for my smaller portfolio projects, presented in an interactive flip card layout. Hover over a card to see the project's description and jump straight to its live demo.
+A showcase page linking to my personal frontend portfolio website.
 
 ## Live Demo
 
 🔗 [View live](https://vampirenoob.github.io/Playground-Hub/)
 
-![Playground Hub Screenshot](image.png)
+![Playground Hub Screenshot](images/readme.jpg)
 
-## Featured Projects
+## Featured
 
-- 🏖️ **Gemeinschaftsurlaub** – Group vacation cost calculator
-- 🧟 **ZombieKiller** – Browser-based shooting game
-- 💥 **Neon Blaster** – Arcade-style browser game
-- 💈 **BarberShop** – Landing page for a fictional barbershop
-- 🎓 **Dein Beruf** – Career orientation quiz
-- 🧘 **Relax** – Guided relaxation / meditation page
-- 📅 **Wochenplaner** – Weekly meal/task planner
-- 🍽️ **Family Recipes** – Recipe collection with baking, main courses, smoothies, and a cooking timer
+- Flip-card reveal on hover showing project details
+- Links directly to the live portfolio site
+- Fully responsive design
 
-Each card links to the project's own live demo and GitHub repository.
 
 ## Tech Stack
 
-- HTML5 / CSS3
+- HTML5
+- CSS3 (Flexbox, 3D Transforms, Media Queries)
 - Vanilla JavaScript
-- [GSAP](https://gsap.com/) – Animations
-- Custom flip-card layout with full mobile responsiveness
+- AOS (Animate On Scroll)
 
-## Note
+## Structure
 
-This hub is a growing collection – new projects are added here as they're completed.
+```
+Playground-Hub/
+├── index.html
+├── style.css
+├── script.js
+└── images/
+├── portfolio-frontend.jpg
+├── readme.jpg
+└── working.ico
+```
 
 ## Contact
 
